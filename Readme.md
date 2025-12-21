@@ -483,3 +483,4 @@ if sum==temp:
 else:
     print("----",temp,"is not Armstrong----")
 ```
+
