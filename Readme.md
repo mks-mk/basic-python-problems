@@ -1,4 +1,4 @@
-![License:MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![License:MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 # 100+ Basic-Python-Problems
 
@@ -486,5 +486,6 @@ if sum==temp:
 else:
     print("----",temp,"is not Armstrong----")
 ```
+
 
 
