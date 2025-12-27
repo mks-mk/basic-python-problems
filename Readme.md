@@ -585,6 +585,13 @@ print("modified third copy of original list:",third_copy_list)
 
 #third_copy = original_list.copy(): This is the most direct way to create a shallow copy, available from Python 3.3 and onwards
 ```
+## Qn47 *Remove an empty string from a list of strings*
+``` given_list=["mk", " ", "MK", "msmk"]```
+### solution:
+``` python
+given_list=["mk", " ",0, "MK",None,"False, "msmk"]
+print("Given list: ",given_list)
+updated_list=list(filter(None,given_list))
 
 
 
