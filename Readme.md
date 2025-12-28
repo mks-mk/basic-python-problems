@@ -32,7 +32,7 @@ n2=int(str(a)*2 )
 n3=int(str(a)*3)
 print(n1+n2+n3)
 
-#str() converts any value to string.variables n1,n2,n3 are created by converting     the input integer "a" to a string and then back to an integer
+#str() converts any value to string.variables n1,n2,n3 are created by converting the input integer "a" to a string and then back to an integer
 ```
 ## Qn4: *A script that calculates n+nn+nnn but allows the user to input any number of repetitions.*
 
@@ -616,6 +616,7 @@ print("updated list",updated_list)
 - [], {}, ()
 """
 ```
+
 
 
 
